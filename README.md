@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
+<h3 align="center">A passionate fullstack developer from Romania</h3>
 <img alt="python programmer" src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 - 🌱 I’m currently learning **Python, Django, Javascript**
